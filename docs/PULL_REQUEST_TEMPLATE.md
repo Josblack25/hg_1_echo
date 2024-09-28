@@ -3,10 +3,10 @@
 - [ ] Bravo 
 - [ ] Charlie
 - [ ] Delta
-- [ ] Echo
+- [x] Echo
 
 # Seleccione el tipo de actividad
-- [ ] Feature
+- [x] Feature
 - [ ] Hotfix
 - [ ] Refactor
 - [ ] Performance
