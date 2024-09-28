@@ -1,7 +1,7 @@
 # Tipo de usuario
 - [ ] Alfa
 - [ ] Bravo 
-- [X] Charlie
+- [ ] Charlie
 - [ ] Delta
 - [x] Echo
 
@@ -10,4 +10,4 @@
 - [ ] Hotfix
 - [ ] Refactor
 - [ ] Performance
-- [X] Testing
+- [ ] Testing
